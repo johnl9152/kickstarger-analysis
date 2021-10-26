@@ -31,3 +31,4 @@ The main limitation of this dataset was the broad ranges of categories and subca
 - What are some other possible tables and/or graphs that we could create?
 
 IN the categories of plays, comparison of different plays earning more support could have been created because some plays are more popular and would add more funds in the campaigns. Through that argument, a bar graph would be an appropriate visualization because it would compare different plays with various fundings that some popular plays would get and the campaign fund managers would come up with ideas to promote not well known plays. Through this process, different campaigns would get equal opportunities to promote and fund their plays despite the competition of well known plays. 
+
